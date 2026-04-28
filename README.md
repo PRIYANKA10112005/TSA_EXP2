@@ -66,10 +66,12 @@ resampled_data['Linear Trend'].plot(kind='line',color='black',linestyle='--')
 resampled_data['money'].plot(kind='line',color='blue',marker='o')
 resampled_data['Polynomial Trend'].plot(kind='line',color='black',marker='o')
 ```
-A - LINEAR TREND ESTIMATION
+A - LINEAR TREND ESTIMATION:
+
 Linear Trend: y=29600.78 + -56230.02x
 
-B- POLYNOMIAL TREND ESTIMATION
+B- POLYNOMIAL TREND ESTIMATION:
+
 Polynomial Trend: y=29600.78 + -56230.02x
 
 ### OUTPUT
